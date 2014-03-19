@@ -366,6 +366,7 @@ a,a:hover{color:#333;}
     padding: 0px;
     list-style: none;
     border: none;
+    height: 180px;
 }
 
 .item_nomal {
