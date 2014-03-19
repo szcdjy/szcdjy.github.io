@@ -382,7 +382,7 @@ a,a:hover{color:#333;}
     text-align: left;
 }
 
-.item_nomal a {
+.item_nomal a{
     text-decoration: none;
     color: #111;
     font-size: 16px;
@@ -410,10 +410,17 @@ a,a:hover{color:#333;}
     text-align: left;
 }
 
-.wu_item_list li a {
+.wu_item_list li p {
     text-decoration: none;
     color: gray;
     font-size: 14px;
+}
+
+.item_nomal span {
+    text-decoration: none;
+    color: grey;
+    font-size: 16px;
+    font-family: 微软雅黑;
 }
 
 .separator {
