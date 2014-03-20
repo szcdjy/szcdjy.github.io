@@ -109,17 +109,17 @@ a,a:hover{color:#333;}
     width: 10px;
     text-indent: -9999px;
 }
-.grid-20 .dec{
+.dec{
      padding: 6px;
      color: seashell;
  }
 
-.grid-20 .dec1{
+.dec1{
     color: darkslateblue;
     font-weight:bold;
 }
 
-.grid-20 .dec2{
+dec2{
     padding: 4px;
     color: seashell;
 }
