@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76eaa723-07d5-4d5a-9878-a586058bc476" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/styles.css" afterPath="$PROJECT_DIR$/stylesheets/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="szcdjy.github.io.iws" />
@@ -29,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="102" selection-start="619" selection-end="619" vertical-scroll-proportion="0.5248619" vertical-offset="0" max-vertical-offset="10203">
+            <state line="96" column="36" selection-start="6676" selection-end="6676" vertical-scroll-proportion="0.62983423" vertical-offset="1482" max-vertical-offset="10260">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,7 +57,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="423" column="23" selection-start="8460" selection-end="8460" vertical-scroll-proportion="-12.6" vertical-offset="7722" max-vertical-offset="9367">
+            <state line="117" column="25" selection-start="3660" selection-end="3660" vertical-scroll-proportion="-8.04" vertical-offset="2022" max-vertical-offset="9557">
               <folding />
             </state>
           </provider>
@@ -304,14 +305,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="423" column="23" selection-start="8460" selection-end="8460" vertical-scroll-proportion="-12.6" vertical-offset="7722" max-vertical-offset="9367">
+        <state line="117" column="25" selection-start="3660" selection-end="3660" vertical-scroll-proportion="-8.04" vertical-offset="2022" max-vertical-offset="9557">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="102" selection-start="619" selection-end="619" vertical-scroll-proportion="0.5248619" vertical-offset="0" max-vertical-offset="10203">
+        <state line="96" column="36" selection-start="6676" selection-end="6676" vertical-scroll-proportion="0.62983423" vertical-offset="1482" max-vertical-offset="10260">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
