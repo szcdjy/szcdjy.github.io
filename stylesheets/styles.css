@@ -421,6 +421,12 @@ a,a:hover{color:#333;}
     color: deeppink;
     font-size: 16px;
     font-family: 微软雅黑;
+    font-style: italic;
+}
+
+.item_nomal p {
+    height: 14px;
+    line-height: 14px;
 }
 
 .separator {
