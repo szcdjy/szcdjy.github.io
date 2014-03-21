@@ -250,6 +250,26 @@ a,a:hover{color:#333;}
     text-align: left;
 }
 
+.my_more{
+    float: right;
+    display: inline-block;
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+    color: hotpink;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    width: 130px;
+    text-align: left;
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: 20px;
+}
+.my_more a{
+    color: hotpink;
+}
+
+
 .mt_name a {
     color: gray;
     text-decoration: none;
